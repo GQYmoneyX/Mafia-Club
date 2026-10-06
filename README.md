@@ -1,5 +1,3 @@
-# Mafia-Club
-BALANCE MAFIA CLUB
 <!DOCTYPE html>
 <html lang="ru">
 <head>
